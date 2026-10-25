@@ -1,0 +1,595 @@
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "a835c11e89b67a178cfca55014780d897e9a085e"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "99547b9be59f14a738c40ead86170cd8360946e42f225a269ff7bed3b70e87f8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "a835c11e89b67a178cfca55014780d897e9a085e"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "99547b9be59f14a738c40ead86170cd8360946e42f225a269ff7bed3b70e87f8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "a835c11e89b67a178cfca55014780d897e9a085e"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "99547b9be59f14a738c40ead86170cd8360946e42f225a269ff7bed3b70e87f8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "a835c11e89b67a178cfca55014780d897e9a085e"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "99547b9be59f14a738c40ead86170cd8360946e42f225a269ff7bed3b70e87f8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "3f13634081474a668ef97b64e0a73709de659e3f"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "68dd14ac827c904d4fbd98e462fa056b6a9d7fa543760b1d5e8d09c6b6711cfc"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "3f13634081474a668ef97b64e0a73709de659e3f"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "68dd14ac827c904d4fbd98e462fa056b6a9d7fa543760b1d5e8d09c6b6711cfc"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "3f13634081474a668ef97b64e0a73709de659e3f"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "68dd14ac827c904d4fbd98e462fa056b6a9d7fa543760b1d5e8d09c6b6711cfc"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "3f13634081474a668ef97b64e0a73709de659e3f"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "68dd14ac827c904d4fbd98e462fa056b6a9d7fa543760b1d5e8d09c6b6711cfc"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "93292f1cc76ea59f2528e0528121337d4d4084c1"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9c19aac11bf8a090ce8313a08213c635ecaa1c1dc475b911e7ec233d20f4945d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "93292f1cc76ea59f2528e0528121337d4d4084c1"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9c19aac11bf8a090ce8313a08213c635ecaa1c1dc475b911e7ec233d20f4945d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "93292f1cc76ea59f2528e0528121337d4d4084c1"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9c19aac11bf8a090ce8313a08213c635ecaa1c1dc475b911e7ec233d20f4945d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "6564de101089aa4bc18346ae63c79e13ef318b91"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "ff1954ebd0eea45386b589295a726ae27950367a14bdfeee2ce793df4fd88ec8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "6564de101089aa4bc18346ae63c79e13ef318b91"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "ff1954ebd0eea45386b589295a726ae27950367a14bdfeee2ce793df4fd88ec8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "6564de101089aa4bc18346ae63c79e13ef318b91"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "ff1954ebd0eea45386b589295a726ae27950367a14bdfeee2ce793df4fd88ec8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "aarch64"
+git-tree-sha1 = "6564de101089aa4bc18346ae63c79e13ef318b91"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "ff1954ebd0eea45386b589295a726ae27950367a14bdfeee2ce793df4fd88ec8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "196aca578d6127d59c12cb62f9c79aa9b6e63646"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "ddd4d14af016b8825da782e400a82c324960be06b31541485ccb41a0853e80b5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "196aca578d6127d59c12cb62f9c79aa9b6e63646"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "ddd4d14af016b8825da782e400a82c324960be06b31541485ccb41a0853e80b5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "196aca578d6127d59c12cb62f9c79aa9b6e63646"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "ddd4d14af016b8825da782e400a82c324960be06b31541485ccb41a0853e80b5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b40131fa619a09f3b6a8a5ff159bdc5625694987"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7909f0b3ff17a8c9f4d9611d5a3cdc756ad06bb76edafeac479ee7993a92fca1"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b40131fa619a09f3b6a8a5ff159bdc5625694987"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7909f0b3ff17a8c9f4d9611d5a3cdc756ad06bb76edafeac479ee7993a92fca1"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b40131fa619a09f3b6a8a5ff159bdc5625694987"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7909f0b3ff17a8c9f4d9611d5a3cdc756ad06bb76edafeac479ee7993a92fca1"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8ad189f0f4f0d5aa2b0aec95b66c567067fc023"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7d72250997e53a8a209e67116922ac6032eb23010909c8aaff82eca1eb9efeac"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8ad189f0f4f0d5aa2b0aec95b66c567067fc023"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7d72250997e53a8a209e67116922ac6032eb23010909c8aaff82eca1eb9efeac"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8ad189f0f4f0d5aa2b0aec95b66c567067fc023"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7d72250997e53a8a209e67116922ac6032eb23010909c8aaff82eca1eb9efeac"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8ad189f0f4f0d5aa2b0aec95b66c567067fc023"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "7d72250997e53a8a209e67116922ac6032eb23010909c8aaff82eca1eb9efeac"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd8528b60ddbc6a18842fd6c270abc3e4ebdd161"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "dde3a334182a8308e090803e83e8e7881a55dc3d1ab9caa6a419ff16957e3c11"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd8528b60ddbc6a18842fd6c270abc3e4ebdd161"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "dde3a334182a8308e090803e83e8e7881a55dc3d1ab9caa6a419ff16957e3c11"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd8528b60ddbc6a18842fd6c270abc3e4ebdd161"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "dde3a334182a8308e090803e83e8e7881a55dc3d1ab9caa6a419ff16957e3c11"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "8278f1df521168a0774ee65284a6583c7e160c7f"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "1035455f0a82c9237de82f5a595f1665e344ba0330191936f3a7c3268284baf7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "8278f1df521168a0774ee65284a6583c7e160c7f"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "1035455f0a82c9237de82f5a595f1665e344ba0330191936f3a7c3268284baf7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "8278f1df521168a0774ee65284a6583c7e160c7f"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "1035455f0a82c9237de82f5a595f1665e344ba0330191936f3a7c3268284baf7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "8278f1df521168a0774ee65284a6583c7e160c7f"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "1035455f0a82c9237de82f5a595f1665e344ba0330191936f3a7c3268284baf7"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "aeb26db8aeec45f89e260f2413364e3a0bc10afe"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "0723b4bd59af414cba1d142f25a0e629b6cbb97a850ddc97acf92fb0e61151d8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "aeb26db8aeec45f89e260f2413364e3a0bc10afe"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "0723b4bd59af414cba1d142f25a0e629b6cbb97a850ddc97acf92fb0e61151d8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-musl-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "aeb26db8aeec45f89e260f2413364e3a0bc10afe"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "0723b4bd59af414cba1d142f25a0e629b6cbb97a850ddc97acf92fb0e61151d8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "i686"
+git-tree-sha1 = "28f3080e60c2aa46c0c7825de2366962380460c9"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5zstd.download]]
+    sha256 = "3f4ab89d17a2d89efdc21196cb4c8486c5fcfc66c65581607dc0dd2bcc31f5d0"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+[[NCH5zstd]]
+arch = "powerpc64le"
+git-tree-sha1 = "1fa5691853e2631c7858db5ac483ac2b0968e25f"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "a7373865d50033b68ceda308a8519ef69b4f74259a1e30c227493c55eb35a678"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "powerpc64le"
+git-tree-sha1 = "1fa5691853e2631c7858db5ac483ac2b0968e25f"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "a7373865d50033b68ceda308a8519ef69b4f74259a1e30c227493c55eb35a678"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "powerpc64le"
+git-tree-sha1 = "1fa5691853e2631c7858db5ac483ac2b0968e25f"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "a7373865d50033b68ceda308a8519ef69b4f74259a1e30c227493c55eb35a678"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "powerpc64le"
+git-tree-sha1 = "1fa5691853e2631c7858db5ac483ac2b0968e25f"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "a7373865d50033b68ceda308a8519ef69b4f74259a1e30c227493c55eb35a678"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "riscv64"
+git-tree-sha1 = "05e76e4210eb214c71e3d6f1084c60d368807147"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "5550034640d4e8fe2b52742889892c1ba9242a9a707532d8e816d0703ca91ad5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "riscv64"
+git-tree-sha1 = "05e76e4210eb214c71e3d6f1084c60d368807147"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "5550034640d4e8fe2b52742889892c1ba9242a9a707532d8e816d0703ca91ad5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "riscv64"
+git-tree-sha1 = "05e76e4210eb214c71e3d6f1084c60d368807147"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "5550034640d4e8fe2b52742889892c1ba9242a9a707532d8e816d0703ca91ad5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "riscv64"
+git-tree-sha1 = "05e76e4210eb214c71e3d6f1084c60d368807147"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "5550034640d4e8fe2b52742889892c1ba9242a9a707532d8e816d0703ca91ad5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "5b96d05d4cf7bcea3a3c556988325c0f9bd095e6"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "5a50722df775319ef1593c6c988b0500f2e61cf9fb8e5d89ab1256c6f029fe37"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "5b96d05d4cf7bcea3a3c556988325c0f9bd095e6"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "5a50722df775319ef1593c6c988b0500f2e61cf9fb8e5d89ab1256c6f029fe37"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "5b96d05d4cf7bcea3a3c556988325c0f9bd095e6"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "5a50722df775319ef1593c6c988b0500f2e61cf9fb8e5d89ab1256c6f029fe37"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "5b96d05d4cf7bcea3a3c556988325c0f9bd095e6"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5zstd.download]]
+    sha256 = "5a50722df775319ef1593c6c988b0500f2e61cf9fb8e5d89ab1256c6f029fe37"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "78a36a5e6320c0d37ab453d802306fc370361421"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9a52e8409ab58371e3927e1ceb2c5e9f8454fa23ac1e6096dfb802e722b0d2db"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "78a36a5e6320c0d37ab453d802306fc370361421"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9a52e8409ab58371e3927e1ceb2c5e9f8454fa23ac1e6096dfb802e722b0d2db"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "78a36a5e6320c0d37ab453d802306fc370361421"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9a52e8409ab58371e3927e1ceb2c5e9f8454fa23ac1e6096dfb802e722b0d2db"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "78a36a5e6320c0d37ab453d802306fc370361421"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "9a52e8409ab58371e3927e1ceb2c5e9f8454fa23ac1e6096dfb802e722b0d2db"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "09ffacb2ef7c4b15b26a309a26718b3c43dfeb46"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "41e32988a45481b65756b9f37eb111da120469684570606a65a75debd83f4aa8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "09ffacb2ef7c4b15b26a309a26718b3c43dfeb46"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "41e32988a45481b65756b9f37eb111da120469684570606a65a75debd83f4aa8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "09ffacb2ef7c4b15b26a309a26718b3c43dfeb46"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5zstd.download]]
+    sha256 = "41e32988a45481b65756b9f37eb111da120469684570606a65a75debd83f4aa8"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "28847ed0f8a3524b28ba0d18c9bd4a3d90a694d3"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "c149d16462ced9c41d7624c2363da0cc2616f6a78d3793f9efbc82cb11775f8d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "28847ed0f8a3524b28ba0d18c9bd4a3d90a694d3"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "c149d16462ced9c41d7624c2363da0cc2616f6a78d3793f9efbc82cb11775f8d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "28847ed0f8a3524b28ba0d18c9bd4a3d90a694d3"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "c149d16462ced9c41d7624c2363da0cc2616f6a78d3793f9efbc82cb11775f8d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "28847ed0f8a3524b28ba0d18c9bd4a3d90a694d3"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5zstd.download]]
+    sha256 = "c149d16462ced9c41d7624c2363da0cc2616f6a78d3793f9efbc82cb11775f8d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5zstd]]
+arch = "x86_64"
+git-tree-sha1 = "682f862aa112664059e14cd4ca00b12a8d78d4c3"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5zstd.download]]
+    sha256 = "136dbff70319750be4d0a8a0a28dcf35a8cfd4d3fcbb8c105d5b08931eedb330"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5zstd_jll.jl/releases/download/NCH5zstd-v401.1000.100+0/NCH5zstd.v401.1000.100.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
